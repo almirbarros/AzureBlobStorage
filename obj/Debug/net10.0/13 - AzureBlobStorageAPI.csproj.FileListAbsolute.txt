@@ -1,0 +1,43 @@
+C:\Projetos\C#\13 - AzureBlobStorageAPI\bin\Debug\net10.0\appsettings.Development.json
+C:\Projetos\C#\13 - AzureBlobStorageAPI\bin\Debug\net10.0\appsettings.json
+C:\Projetos\C#\13 - AzureBlobStorageAPI\bin\Debug\net10.0\13 - AzureBlobStorageAPI.staticwebassets.endpoints.json
+C:\Projetos\C#\13 - AzureBlobStorageAPI\bin\Debug\net10.0\13 - AzureBlobStorageAPI.exe
+C:\Projetos\C#\13 - AzureBlobStorageAPI\bin\Debug\net10.0\13 - AzureBlobStorageAPI.deps.json
+C:\Projetos\C#\13 - AzureBlobStorageAPI\bin\Debug\net10.0\13 - AzureBlobStorageAPI.runtimeconfig.json
+C:\Projetos\C#\13 - AzureBlobStorageAPI\bin\Debug\net10.0\13 - AzureBlobStorageAPI.dll
+C:\Projetos\C#\13 - AzureBlobStorageAPI\bin\Debug\net10.0\13 - AzureBlobStorageAPI.pdb
+C:\Projetos\C#\13 - AzureBlobStorageAPI\bin\Debug\net10.0\Azure.Core.dll
+C:\Projetos\C#\13 - AzureBlobStorageAPI\bin\Debug\net10.0\Azure.Storage.Blobs.dll
+C:\Projetos\C#\13 - AzureBlobStorageAPI\bin\Debug\net10.0\Azure.Storage.Common.dll
+C:\Projetos\C#\13 - AzureBlobStorageAPI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Projetos\C#\13 - AzureBlobStorageAPI\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projetos\C#\13 - AzureBlobStorageAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Projetos\C#\13 - AzureBlobStorageAPI\bin\Debug\net10.0\System.ClientModel.dll
+C:\Projetos\C#\13 - AzureBlobStorageAPI\bin\Debug\net10.0\System.IO.Hashing.dll
+C:\Projetos\C#\13 - AzureBlobStorageAPI\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Projetos\C#\13 - AzureBlobStorageAPI\obj\Debug\net10.0\13 - AzureBlobStorageAPI.csproj.AssemblyReference.cache
+C:\Projetos\C#\13 - AzureBlobStorageAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Projetos\C#\13 - AzureBlobStorageAPI\obj\Debug\net10.0\13 - AzureBlobStorageAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\13 - AzureBlobStorageAPI\obj\Debug\net10.0\13 - AzureBlobStorageAPI.AssemblyInfoInputs.cache
+C:\Projetos\C#\13 - AzureBlobStorageAPI\obj\Debug\net10.0\13 - AzureBlobStorageAPI.AssemblyInfo.cs
+C:\Projetos\C#\13 - AzureBlobStorageAPI\obj\Debug\net10.0\13 - AzureBlobStorageAPI.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\13 - AzureBlobStorageAPI\obj\Debug\net10.0\13 - AzureBlobStorageAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\C#\13 - AzureBlobStorageAPI\obj\Debug\net10.0\13 - AzureBlobStorageAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\C#\13 - AzureBlobStorageAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Projetos\C#\13 - AzureBlobStorageAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Projetos\C#\13 - AzureBlobStorageAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Projetos\C#\13 - AzureBlobStorageAPI\obj\Debug\net10.0\scopedcss\bundle\13 - AzureBlobStorageAPI.styles.css
+C:\Projetos\C#\13 - AzureBlobStorageAPI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Projetos\C#\13 - AzureBlobStorageAPI\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Projetos\C#\13 - AzureBlobStorageAPI\obj\Debug\net10.0\staticwebassets.development.json
+C:\Projetos\C#\13 - AzureBlobStorageAPI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Projetos\C#\13 - AzureBlobStorageAPI\obj\Debug\net10.0\swae.build.ex.cache
+C:\Projetos\C#\13 - AzureBlobStorageAPI\obj\Debug\net10.0\13 - Azu.E6BEB580.Up2Date
+C:\Projetos\C#\13 - AzureBlobStorageAPI\obj\Debug\net10.0\13 - AzureBlobStorageAPI.dll
+C:\Projetos\C#\13 - AzureBlobStorageAPI\obj\Debug\net10.0\refint\13 - AzureBlobStorageAPI.dll
+C:\Projetos\C#\13 - AzureBlobStorageAPI\obj\Debug\net10.0\13 - AzureBlobStorageAPI.pdb
+C:\Projetos\C#\13 - AzureBlobStorageAPI\obj\Debug\net10.0\13 - AzureBlobStorageAPI.genruntimeconfig.cache
+C:\Projetos\C#\13 - AzureBlobStorageAPI\obj\Debug\net10.0\ref\13 - AzureBlobStorageAPI.dll
+C:\Projetos\C#\13 - AzureBlobStorageAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\C#\13 - AzureBlobStorageAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\C#\13 - AzureBlobStorageAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
